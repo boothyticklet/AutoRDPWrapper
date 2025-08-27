@@ -15,6 +15,6 @@ While I am pretty sure that RDPWrapper was not intended for this, a lot of peopl
 ## Credits:
 [Natro Macro](https://github.com/NatroTeam/NatroMacro)
 
-[BSGH](discord.gg/bsgh) (This is where the rdpwrap.ini comes from)
+[BSGH](https://discord.gg/bsgh) (This is where the rdpwrap.ini comes from)
 
-[RDPWrapper](https://github.com/stascorp/rdpwrap Of Course
+[RDPWrapper](https://github.com/stascorp/rdpwrap) Of Course
