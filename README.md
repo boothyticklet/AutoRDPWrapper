@@ -1,5 +1,7 @@
 # AutoRDPWrapper
 A tool I made that automates setting up [RDPWrapper](https://github.com/stascorp/rdpwrap) (Bee Swarm Simulator)
+## ⚠️ Warning
+While nothing *should* happen, use this tool at your own risk. There is always a chance it could affect your Windows installation. If you’re unsure, do **not** use this. 
 
 ## What is this?
 After a lot of people started asking me for help with setting up RDPWrapper For Macroing in Bee Swarm Simulator, I decided to make a tool that automates most of the process for you.
